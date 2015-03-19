@@ -1,0 +1,1 @@
+Semantic parsing using Freebase. The very important part is to find a proper Topic node or Freebase page where the question is most likely to present.
